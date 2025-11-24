@@ -27,14 +27,3 @@ Arrays / Lists	Manages multiple accounts in memory
 Searching	Finds accounts by account number
 Exception Handling	Prevents invalid banking operations
 File I/O	Persistent data storage
-
-Project Folder Structure
-
-BankManagementSystem/
-│
-├── BankAccount.java
-├── BankManagementSystem.java
-├── Main.java
-├── bank_accounts.txt
-│
-└── Compiled Files (.class)
